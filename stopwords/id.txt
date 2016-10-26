@@ -48,6 +48,7 @@ begitulah
 begitupun
 belum
 belumlah
+berada
 berapa
 berapakah
 berapalah
@@ -69,6 +70,7 @@ bukan
 bukankah
 bukanlah
 bukannya
+bulan
 cuma
 dahulu
 dalam
@@ -125,6 +127,7 @@ itu
 itukah
 itulah
 jalan
+jam
 jangan
 jangankan
 janganlah
@@ -148,8 +151,10 @@ kapanpun
 karena
 karenanya
 kata
+katanya
 ke
 kecil
+kembali
 kemudian
 kenapa
 kepada
@@ -356,6 +361,7 @@ tidak
 tidakkah
 tidaklah
 toh
+umum
 untuk
 waduh
 wah
