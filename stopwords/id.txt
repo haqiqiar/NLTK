@@ -196,8 +196,10 @@ melainkan
 melalui
 memang
 mengapa
+mengatakan
 menjadi
 menurut
+menyatakan
 mereka
 merekalah
 merupakan
@@ -361,8 +363,10 @@ tidak
 tidakkah
 tidaklah
 toh
+ujar
 umum
 untuk
+upaya
 waduh
 wah
 wahai
@@ -372,6 +376,3 @@ wong
 yaitu
 yakni
 yang
-ujar
-menyatakan
-mengatakan
